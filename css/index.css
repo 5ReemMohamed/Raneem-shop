@@ -2612,8 +2612,8 @@ flex-direction: column;
 }
 
 .footer-logo img {
-    width: 135px;
-    max-height: 120px;
+    width: 195px;
+    max-height: 160px;
     object-fit: contain;
 }
 
